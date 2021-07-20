@@ -8,4 +8,7 @@ If you wish to ask a question, share an alternative solution to
 
 Added something
 
+Again added something
+
+
 the exercises, raise a bug in the code or in the videos, or simply provide a feedback, feel free to use the [issue tracker](https://github.com/cirulls/hands-on-jenkins/issues) so that it can be visible and useful for anyone following the course. 
